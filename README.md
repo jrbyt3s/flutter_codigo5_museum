@@ -7,17 +7,17 @@ A new Flutter project.
 
 </br>
 Inicio Page1: </br>
-<img src="assets/screenshot/inicio_page1.png" width="30%">
+<img src="assets/screenshot/Inicio_page1.png" width="30%">
 Inicio Page2: </br>
-<img src="assets/screenshot/inicio_page2.png" width="30%">
+<img src="assets/screenshot/Inicio_page2.png" width="30%">
 Inicio Page3: </br>
-<img src="assets/screenshot/inicio_page3.png" width="30%">
+<img src="assets/screenshot/Inicio_page3.png" width="30%">
 Inicio Page4: </br>
-<img src="assets/screenshot/inicio_page4.png" width="30%">
+<img src="assets/screenshot/Inicio_page4.png" width="30%">
 Create PDF Page: </br>
 <img src="assets/screenshot/Create_pdf.png" width="30%">
 Slider Page: </br>
-<img src="assets/screenshot/intro_sliderPage.png" width="30%">
+<img src="assets/screenshot/Intro_sliderPage.png" width="30%">
 
 ## Getting Started
 
