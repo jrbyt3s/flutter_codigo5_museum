@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         textTheme: GoogleFonts.dmSansTextTheme(),
       ),
-      home: InitPage(),
+      home: IntroSliderPage(),
     );
   }
 }
